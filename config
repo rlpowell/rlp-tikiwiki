@@ -1,0 +1,2 @@
+service=rlp-tikiwiki
+pod_args='-p 19780:80'
